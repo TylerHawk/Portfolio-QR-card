@@ -15,3 +15,9 @@ div, p, span, table {
     overflow-wrap: break-word;
     max-width: 100%;
 }
+
+table {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+}
