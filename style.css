@@ -6,8 +6,5 @@ body {
     background-attachment: fixed; 
 }
 .container{
-    max-width: 100%;
-}
-.col{
-    min-width: fit-content;
+    min-width:min-content;
 }
