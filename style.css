@@ -5,7 +5,9 @@ body {
     background-repeat: no-repeat; 
     background-attachment: fixed; 
 }
-
+.container{
+    max-width: 100%;
+}
 .col{
     min-width: fit-content;
 }
