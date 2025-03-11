@@ -6,6 +6,6 @@ body {
     background-attachment: fixed; 
 }
 
-.container {
-    min-width: 600px
+.col{
+    min-width: fit-content;
 }
