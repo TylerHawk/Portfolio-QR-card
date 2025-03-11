@@ -5,19 +5,3 @@ body {
     background-repeat: no-repeat; 
     background-attachment: fixed; 
 }
-.container {
-    max-width: 100%;
-    overflow-x: hidden;
-}
-
-div, p, span, table {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    max-width: 100%;
-}
-
-table {
-    width: 100%;
-    display: block;
-    overflow-x: auto;
-}
