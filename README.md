@@ -1,2 +1,2 @@
 # Portfolio-QR-card
-My Resume Site
+My studio site
