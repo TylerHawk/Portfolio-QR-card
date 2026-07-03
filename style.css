@@ -7,7 +7,12 @@ body {
 }
 
 #textBox {
-    color: red;
-    text_align: center
+    padding: 10px;
+    color: rgb(186, 170, 118);
+    text-align: center;
+     -webkit-text-stroke: 1px rgb(96, 84, 54)
 }
     
+.box{
+    margin-top: 40px;
+}
